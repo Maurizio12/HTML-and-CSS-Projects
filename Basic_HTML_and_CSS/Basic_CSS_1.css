@@ -4,5 +4,5 @@ p {
 }
 
 table {
-    background-color: blue;
+    background-color: rgb(185, 185, 209); border: 10px solid rgb(176, 24, 24);
 }
